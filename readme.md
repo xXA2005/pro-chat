@@ -1,4 +1,4 @@
-# pro ahh end to end encrypted chat
+# pro ahh end to end encrypted chat real dont use for bad actions
 
 ## tutorial
 run `cargo run --bin generate -r` to generate your keys
