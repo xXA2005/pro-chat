@@ -10,6 +10,8 @@ futures = "0.3.30"
 base64 = "0.22.1"
 rsa = "0.9.6"
 rand = "0.8.5"
+sqlx = { version = "0.8.2", features = ["sqlite", "runtime-tokio-native-tls"] }
+
 
 [[bin]]
 name = "server"

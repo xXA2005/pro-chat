@@ -11,8 +11,8 @@ then run `cargo run --bin client -r` enter the path of your firend's public key 
 
 ## todo
 - multi user system
+- ~~save chats~~ make saved chats encrypted
 - desktop app
-- save chats
 - host public server maybe
 - handle errors tbh
 
